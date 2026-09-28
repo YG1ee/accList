@@ -5,6 +5,7 @@ acc com.google.android.youtube
 acc com.google.android.projection.gearhead
 acc com.google.android.apps.restore
 acc com.android.chrome
+acc com.sec.android.app.chromecustomizations
 acc com.facebook.appmanager
 acc com.facebook.system
 acc com.facebook.services
