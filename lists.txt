@@ -1,37 +1,68 @@
-acc com.google.android.apps.docs
-acc com.google.android.apps.photos
-acc com.google.android.apps.youtube.music
-acc com.google.android.youtube
-acc com.google.android.projection.gearhead
-acc com.google.android.apps.restore
-acc com.android.chrome
-acc com.sec.android.app.chromecustomizations
-acc com.facebook.appmanager
-acc com.facebook.system
-acc com.facebook.services
-acc com.samsung.android.app.telephonyui.esimclient
-acc com.android.hotwordenrollment.okgoogle
-acc com.android.hotwordenrollment.xgoogle
-acc com.google.android.googlequicksearchbox
-acc com.google.android.gm
-acc com.lguplus.lgugpsnwps
-acc com.google.android.apps.tachyon
-acc com.samsung.android.app.spage
-acc com.samsung.android.kidsinstaller
-acc com.skms.android.agent
-acc com.samsung.android.service.stplatform
-acc com.sec.android.easyMover.Agent
-acc com.sec.android.easyMover
-acc com.samsung.android.smartmirroring
-acc com.microsoft.appmanager
-acc com.samsung.android.mdx
-acc com.samsung.android.fast
-acc com.samsung.android.app.parentalcare
-acc com.sktelecom.smartcard.SmartcardService
-acc com.samsung.android.mapsagent
-acc com.samsung.android.app.updatecenter
-acc com.android.carrierdefaultapp
-acc com.samsung.android.app.omcagent
-acc com.samsung.android.app.camera.sticker.facearavatar.preload
-acc com.google.android.healthconnect.controller
-acc com.samsung.android.arzone
+com.google.android.apps.docs
+com.google.android.apps.photos
+com.google.android.apps.youtube.music
+com.google.android.youtube
+com.google.android.projection.gearhead
+com.google.android.apps.restore
+com.android.chrome
+com.sec.android.app.chromecustomizations
+com.facebook.appmanager
+com.facebook.system
+com.facebook.services
+com.samsung.android.app.telephonyui.esimclient
+com.android.hotwordenrollment.okgoogle
+com.android.hotwordenrollment.xgoogle
+com.google.android.googlequicksearchbox
+com.google.android.gm
+com.lguplus.lgugpsnwps
+com.google.android.apps.tachyon
+com.samsung.android.app.spage
+com.samsung.android.kidsinstaller
+com.skms.android.agent
+com.samsung.android.service.stplatform
+com.sec.android.easyMover.Agent
+com.sec.android.easyMover
+com.samsung.android.smartmirroring
+com.microsoft.appmanager
+com.samsung.android.mdx
+com.samsung.android.fast
+com.samsung.android.app.parentalcare
+com.sktelecom.smartcard.SmartcardService
+com.samsung.android.mapsagent
+com.samsung.android.app.updatecenter
+com.android.carrierdefaultapp
+com.samsung.android.app.omcagent
+com.samsung.android.app.camera.sticker.facearavatar.preload
+com.google.android.healthconnect.controller
+com.samsung.android.arzone
+
+# xiaomi
+cn.wps.moffice_eng
+com.spotify.music
+com.agoda.mobile.consumer
+cn.wps.xiaomi.abroad.lite
+com.linkedin.android
+com.amazon.mShop.android.shopping
+cn.futu.trader
+com.amazon.appmanager
+com.facebook.katana
+com.mi.global.shop
+
+# xiaomi, 사용하는 경우 그냥 두기
+com.xiaomi.calendar # 기본 달력 앱
+com.miui.weather2 # 기본 날씨앱 
+com.xiaomi.smarthome # 스마트홈
+com.mi.global.bbs # 커뮤니티
+com.miui.huanji # Mi Mover
+com.miui.android.fashiongallery # 슬라이드형 배경화면
+com.xiaomi.mipicks # GetApps
+com.mi.globalbrowser # Mi 브라우저
+com.miui.videoplayer # Mi 동영상
+com.miui.tsmclient # 스마트 카드
+
+# google
+com.google.android.videos # Google TV 
+
+# google, 사용하는 경우 그냥 두기
+com.google.android.apps.chromecast.app # google home
+com.google.android.apps.subscriptions.red # google one
