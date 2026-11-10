@@ -1,42 +1,31 @@
-com.google.android.apps.docs
-com.google.android.apps.photos
-com.google.android.apps.youtube.music
-com.google.android.youtube
-com.google.android.projection.gearhead
-com.google.android.apps.restore
-com.android.chrome
-com.sec.android.app.chromecustomizations
-com.facebook.appmanager
-com.facebook.system
-com.facebook.services
-com.samsung.android.app.telephonyui.esimclient
-com.android.hotwordenrollment.okgoogle
-com.android.hotwordenrollment.xgoogle
-com.google.android.googlequicksearchbox
-com.google.android.gm
-com.lguplus.lgugpsnwps
-com.google.android.apps.tachyon
-com.samsung.android.app.spage
-com.samsung.android.kidsinstaller
-com.skms.android.agent
+# 갤럭시 bloat
+com.sec.android.app.chromecustomizations # 크롬 커스터마이징 (별 의미 없음)
+com.facebook.appmanager # 페이스북1
+com.facebook.system # 페이스북2
+com.facebook.services # 페이스북3
+com.samsung.android.arzone
+
+# 갤럭시, 사용하는 경우 그냥 두기
+com.samsung.android.app.telephonyui.esimclient # 갤럭시 e심
+com.lguplus.lgugpsnwps # LG U+ 긴급 위치추적
+com.samsung.android.app.spage # 삼성 뉴스
+com.samsung.android.kidsinstaller # 삼성 키즈 인스톨러
+com.samsung.android.app.parentalcare
+com.skms.android.agent 
 com.samsung.android.service.stplatform
-com.sec.android.easyMover.Agent
-com.sec.android.easyMover
+com.sec.android.easyMover.Agent # 복원 도구인 듯1
+com.sec.android.easyMover # 복원 도구인 듯2
 com.samsung.android.smartmirroring
 com.microsoft.appmanager
 com.samsung.android.mdx
 com.samsung.android.fast
-com.samsung.android.app.parentalcare
 com.sktelecom.smartcard.SmartcardService
 com.samsung.android.mapsagent
 com.samsung.android.app.updatecenter
-com.android.carrierdefaultapp
 com.samsung.android.app.omcagent
 com.samsung.android.app.camera.sticker.facearavatar.preload
-com.google.android.healthconnect.controller
-com.samsung.android.arzone
 
-# xiaomi
+# xiaomi bloat
 cn.wps.moffice_eng
 com.spotify.music
 com.agoda.mobile.consumer
@@ -60,9 +49,23 @@ com.mi.globalbrowser # Mi 브라우저
 com.miui.videoplayer # Mi 동영상
 com.miui.tsmclient # 스마트 카드
 
-# google
-com.google.android.videos # Google TV 
+# google bloat
+com.google.android.apps.restore # 안드로이드 복원
+com.google.android.apps.tachyon # 구글 Meet (아무도 안 씀)
+com.google.android.videos # Google TV
+com.android.carrierdefaultapp
 
 # google, 사용하는 경우 그냥 두기
+com.google.android.gm # Gmail
+com.android.chrome # 크롬
+com.google.android.apps.photos # 구글 포토
+com.google.android.googlequicksearchbox # 구글 검색
+com.android.hotwordenrollment.okgoogle # 구글 어시스턴트 (OK Google)
+com.android.hotwordenrollment.xgoogle # 구글 어시스턴트
+com.google.android.healthconnect.controller # 구글 헬스 커넥트
 com.google.android.apps.chromecast.app # google home
 com.google.android.apps.subscriptions.red # google one
+com.google.android.apps.docs # 구글 드라이브
+com.google.android.apps.youtube.music # 기본 Youtube Music
+com.google.android.youtube # 기본 Youtube
+com.google.android.projection.gearhead # 안드로이드 Auto
